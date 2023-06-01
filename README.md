@@ -1,5 +1,4 @@
 # Devasc_Skills
-
 The contents of the Devasc_Skills repository are as follows.
 
 ├── Lab 1 - Python Experiments
